@@ -9,7 +9,7 @@ public class CountVowels
 		char testingCharacterLetter = 'A';
 		int wordLength = word.length ();
 
-		System.out.println("The vowels are: ");
+		System.out.println("Vowels: ");
 
 
 		for (int testingCharacterPosition = 0 ; testingCharacterPosition < wordLength ; testingCharacterPosition++ ) {
